@@ -19,6 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'A highly motivated and proactive individual who gain a strong knowledge of different programming languages, from both frontend and backend.',
+  paragraphTwo: 'I learn to build full-stack web applications, deepening my knowledge of backend client-facing and server-side development. I expand my knowledge of backend programming languages and start coding collaboratively. Get familiar with key computer science concepts to become a more efficient programmer and perform confidently in technical interviews.'
   resume: 'https://onedrive.live.com/redir?resid=B849BEAF24E023EF!12416&authkey=!AEfARjnBOkXzDxk&ithint=file%2cdocx', // if no resume, the button will not show up
 };
 
@@ -40,7 +41,7 @@ export const projectsData = [
     info: 'I build a complex expense budget tracker. I even added voice capablities to command applications using Speechly.',
     info2: 'Technologies Use: React, Context API, Material UI',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
