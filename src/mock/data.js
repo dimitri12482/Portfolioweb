@@ -19,9 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'A highly motivated and proactive individual who gain a strong knowledge of different programming languages, from both frontend and backend.',
-  paragraphTwo: '',
-  paragraphThree: '',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://onedrive.live.com/redir?resid=B849BEAF24E023EF!12416&authkey=!AEfARjnBOkXzDxk&ithint=file%2cdocx', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -33,7 +31,7 @@ export const projectsData = [
     info: 'I build a responsive website from start to finish. I also learn how to use keyframes and hover effect animations',
     info2: 'Technologies Use: HTML5, CSS3, JavaScript',
     url: '',
-    repo: 'https://github.com/dimitri12482/Responsive-Website', // if no repo, the button will not show up
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -51,7 +49,7 @@ export const projectsData = [
     info: 'This is user login and registeration app using Backend languages.',
     info2: 'Technologies Use: Node.js, Express, MongoDB',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -60,7 +58,7 @@ export const projectsData = [
     info: 'I build a netflix clone using TMDB API Key to get all movies & build the Netflix movie rows. I also build navbar and password login on the website.',
     info2: 'Technologies Use: React, Firebase',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: '', // if no repo, the button will not show up
   },
 ];
 
