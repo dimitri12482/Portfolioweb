@@ -19,8 +19,8 @@ export const heroData = {
 export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'A highly motivated and proactive individual who gain a strong knowledge of different programming languages, from both frontend and backend.',
-  paragraphTwo: 'I learn to build full-stack web applications, deepening my knowledge of backend client-facing and server-side development. I expand my knowledge of backend programming languages and start coding collaboratively. Get familiar with key computer science concepts to become a more efficient programmer and perform confidently in technical interviews.'
-  resume: 'https://onedrive.live.com/redir?resid=B849BEAF24E023EF!12416&authkey=!AEfARjnBOkXzDxk&ithint=file%2cdocx', // if no resume, the button will not show up
+  paragraphTwo: 'I also learnt knowledge of backend client-facing and server-side development. I expand my knowledge of backend programming languages and start coding collaboratively. Get familiar with key computer science concepts to become a more efficient programmer and perform confidently in technical interviews.',
+  resume: 'https://bit.ly/37WL3sB', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
