@@ -73,7 +73,7 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: '07415930659',
+  cta: '',
   btn: '',
   email: 'dimitridwyer@hotmail.co.uk',
 };
