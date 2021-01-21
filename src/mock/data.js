@@ -11,15 +11,14 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Dimitri Dwyer',
-  subtitle: 'Software Developer',
+  subtitle: 'Web Developer',
   cta: '',
 };
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'profile.jpg',
-  paragraphOne: 'A highly motivated and proactive individual who gain a strong knowledge of different programming languages, from both frontend and backend.',
-  paragraphTwo: 'I also learnt knowledge of backend client-facing and server-side development. I expand my knowledge of backend programming languages and start coding collaboratively. Get familiar with key computer science concepts to become a more efficient programmer and perform confidently in technical interviews.',
+  img: '',
+  paragraphOne: 'and I’m passionate about all things  JavaScript. I work  hard , I care about writing clean  code and  I genuinely love  to learn. I’m currently looking for the right opportunity to work in an environment that  will help me progress into  a fullstack role.',
   resume: 'https://bit.ly/37WL3sB', // if no resume, the button will not show up
 };
 
@@ -31,8 +30,8 @@ export const projectsData = [
     title: 'Food Menu Website',
     info: 'I build a responsive website from start to finish. I also learn how to use keyframes and hover effect animations',
     info2: 'Technologies Use: HTML5, CSS3, JavaScript',
-    url: '',
-    repo: '', // if no repo, the button will not show up
+    url: 'https://cranky-borg-92fcc0.netlify.app/',
+    repo: 'https://github.com/dimitri12482/Responsive-Website', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -40,32 +39,41 @@ export const projectsData = [
     title: 'Expense Tracking App',
     info: 'I build a complex expense budget tracker. I even added voice capablities to command applications using Speechly.',
     info2: 'Technologies Use: React, Context API, Material UI',
-    url: '',
-    repo: '', // if no repo, the button will not show up
+    url: 'https://ecstatic-beaver-49c4a1.netlify.app/',
+    repo: 'https://github.com/dimitri12482/Expense-Tracking-App', // if no repo, the button will not show up
+  },
+    {
+    id: nanoid(),
+    img: 'project2.jpg',
+    title: 'Ecommerce Store',
+    info: 'I build a fully functional eCommerce application using React and Node.js for backend API',
+    info2: 'Technologies Use: React, Node, Context API',
+    url: 'https://ecstatic-beaver-49c4a1.netlify.app/',
+    repo: 'https://github.com/dimitri12482/Expense-Tracking-App', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'project3.jpg',
-    title: 'Passport Authentication',
+    title: 'Tesla Clone',
     info: 'This is user login and registeration app using Backend languages.',
     info2: 'Technologies Use: Node.js, Express, MongoDB',
-    url: '',
-    repo: '', // if no repo, the button will not show up
+    url: 'https://tesla-clone12.netlify.app',
+    repo: 'https://github.com/dimitri12482/tesla-clone', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'project4.jpg',
     title: 'Netflix Clone',
-    info: 'I build a netflix clone using TMDB API Key to get all movies & build the Netflix movie rows. I also build navbar and password login on the website.',
-    info2: 'Technologies Use: React, Firebase',
-    url: '',
-    repo: '', // if no repo, the button will not show up
+    info: 'I build a netflix clone using HTML, CSS and JavaScript to build navbar and animations on the websites',
+    info2: 'Technologies Use: HTML, CSS, JavaScript',
+    url: 'netflix-clone26.netlify.app',
+    repo: 'https://github.com/dimitri12482/Netflix-clone', // if no repo, the button will not show up
   },
 ];
 
 // CONTACT DATA
 export const contactData = {
-  cta: '',
+  cta: '07415930659',
   btn: '',
   email: 'dimitridwyer@hotmail.co.uk',
 };
@@ -75,18 +83,13 @@ export const footerData = {
   networks: [
     {
       id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
       name: 'linkedin',
-      url: '',
+      url: 'https://www.linkedin.com/in/dimitri-dwyer-720ab914b',
     },
     {
       id: nanoid(),
       name: 'github',
-      url: '',
+      url: 'https://github.com/dimitri12482/',
     },
   ],
 };
