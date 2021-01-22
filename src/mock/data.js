@@ -17,11 +17,9 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: '',
+  img: 'profile.jpg',
   paragraphOne: 'I’m passionate about all things  JavaScript. I work  hard , I care about writing clean  code and  I genuinely love  to learn. I’m currently looking for the right opportunity to work in an environment that  will help me progress into  a fullstack role.',
-  paragraphTwo: ''
-  paragraphThree:''
-resume: 'https://bit.ly/37WL3sB', // if no resume, the button will not show up
+resume: 'https://bit.ly/394BRmL', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
