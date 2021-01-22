@@ -44,7 +44,7 @@ export const projectsData = [
   },
     {
     id: nanoid(),
-    img: 'project2.jpg',
+    img: 'project3.jpg',
     title: 'Ecommerce Store',
     info: 'I build a fully functional eCommerce application using React and Node.js for backend API',
     info2: 'Technologies Use: React, Node, Context API',
@@ -53,7 +53,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project3.jpg',
+    img: 'project4.jpg',
     title: 'Tesla Clone',
     info: 'This is user login and registeration app using Backend languages.',
     info2: 'Technologies Use: Node.js, Express, MongoDB',
@@ -62,7 +62,7 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project4.jpg',
+    img: 'project5.jpg',
     title: 'Netflix Clone',
     info: 'I build a netflix clone using HTML, CSS and JavaScript to build navbar and animations on the websites',
     info2: 'Technologies Use: HTML, CSS, JavaScript',
