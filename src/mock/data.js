@@ -44,29 +44,29 @@ export const projectsData = [
   },
     {
     id: nanoid(),
-    img: 'project3.jpg',
+    img: 'project3.png',
     title: 'Ecommerce Store',
     info: 'I build a fully functional eCommerce application using React and Node.js for backend API',
     info2: 'Technologies Use: React, Node, Context API',
-    url: 'https://ecstatic-beaver-49c4a1.netlify.app/',
+    url: 'https://ecommerce-online.netlify.app/',
     repo: 'https://github.com/dimitri12482/Expense-Tracking-App', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project4.jpg',
+    img: 'project4.png',
     title: 'Tesla Clone',
-    info: 'This is user login and registeration app using Backend languages.',
-    info2: 'Technologies Use: Node.js, Express, MongoDB',
+    info: 'Built a Tesla clone using React and Node for registration login.',
+    info2: 'Technologies Use: Node.js, React,',
     url: 'https://tesla-clone12.netlify.app',
     repo: 'https://github.com/dimitri12482/tesla-clone', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project5.jpg',
+    img: 'project5.png',
     title: 'Netflix Clone',
     info: 'I build a netflix clone using HTML, CSS and JavaScript to build navbar and animations on the websites',
     info2: 'Technologies Use: HTML, CSS, JavaScript',
-    url: 'netflix-clone26.netlify.app',
+    url: 'https://netflix-clone26.netlify.app/',
     repo: 'https://github.com/dimitri12482/Netflix-clone', // if no repo, the button will not show up
   },
 ];
@@ -89,12 +89,8 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'github',
-      url: 'https://github.com/dimitri12482/',
+      url: 'https://github.com/dimitri12482/Portfolioweb/',
     },
   ],
 };
 
-// Github start/fork buttons
-export const githubButtons = {
-  isEnabled: true, // set to false to disable the GitHub stars/fork buttons
-};
