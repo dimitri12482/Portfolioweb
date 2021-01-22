@@ -16,12 +16,7 @@ const GithubButton = () => (
     <GitHubButton
       className="github-button"
       href="//https://github.com/dimitri12482"
-      data-icon="octicon-star"
-      data-size="large"
-      data-show-count="true"
-      aria-label="Star cobidev/gatsby-simplefolio on GitHub"
-    >
-      Star
+     
     </GitHubButton>
   </>
 );
