@@ -7,12 +7,7 @@ const GithubButton = () => (
       className="github-button"
       href="https://github.com/dimitri12482/Portfolioweb/"
     >
-      Fork
-    </GitHubButton>
-    <GitHubButton
-      className="github-button"
-      href="//https://github.com/dimitri12482">
-     
+
     </GitHubButton>
 );
 
