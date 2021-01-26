@@ -11,10 +11,9 @@ const GithubButton = () => (
     </GitHubButton>
     <GitHubButton
       className="github-button"
-      href="//https://github.com/dimitri12482"
+      href="//https://github.com/dimitri12482">
      
     </GitHubButton>
-  </>
 );
 
 export default GithubButton;
